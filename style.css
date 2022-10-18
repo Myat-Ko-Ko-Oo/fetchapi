@@ -68,3 +68,7 @@ margin-right:130px ;
   
     
 }
+@media (max-width:376px){
+    .container {width:50vh}
+    
+  }
